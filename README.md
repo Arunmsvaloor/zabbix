@@ -32,3 +32,4 @@ Send feedback to: [Itmicus][email].
 [email]: mailto:info@itmicus.ru
 [new issue]: https://github.com/itmicus/zabbix/issues/new
 [templates os]: https://github.com/itmicus/zabbix/tree/master/Templates/Operating%20Systems
+# Trigger workflow test
